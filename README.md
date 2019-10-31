@@ -1,5 +1,5 @@
 # design-patterns
-Repository for my implementations of each design patterns
+Repository for my implementations of each design patterns.
 
 #### Creational Patterns
 1. Singleton
